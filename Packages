@@ -1,0 +1,14 @@
+Package: com.mengbe.cercube
+Version: 5.1.10
+Architecture: iphoneos-arm
+Maintainer: mengbe <mengbe168@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Filename: /cercube.deb
+Size: 11881466
+MD5sum: a45894e5b9df96d3f837c974d0025e73
+SHA1: e8aa0c61bf7d35a085fb889d18a8a3ef066a6212
+SHA256: 82bf5114460b20dafd5d57d592d0b7ac0b9eafeb9920d5021b4f303a790e8bd6
+Section: support ios 13
+Description: this is a good tweak for youtube app.
+Author: Majd Alfhaily <mengbe168@gmail.com>
+Name: Cercube for Youtube
