@@ -8,7 +8,7 @@ Size: 11881466
 MD5sum: 2eaa49a1e64afeff858b90067aa5dd41
 SHA1: 943b5cf714c95731d32d9997dc86bc11573dc154
 SHA256: 3df7a70c60e7f34a873ed46d1833291ef367f116e64bad144559299e1d86236c
-Section: support ios 13
+Section: tweaks
 Description: this is a good tweak for youtube app.
 Author: mengbe <mengbecnd@gmail.com>
 Name: Cercube for Youtube
